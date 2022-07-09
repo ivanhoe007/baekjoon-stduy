@@ -1,5 +1,20 @@
 #include <stdio.h>
 
+int main()
+{
+    printf("Hello world!");
+}
+
+
+
+
+
+
+
+
+/*
+#include <stdio.h>
+
 
 int cnt = 0;
 int stack[100001];
@@ -41,3 +56,4 @@ int main()
     printf("%d\n", sum);
     return 0;
 }
+/*
